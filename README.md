@@ -1,5 +1,6 @@
 # SistemaPizzaria
-Um sistema simples base para um programa de pedido de pizzas
+<img width="622" height="649" alt="Captura de tela 2026-03-26 110825" src="https://github.com/user-attachments/assets/5dfd9235-737f-4245-b66b-01cbe6853edb" />
+
 </br>
 <h2>a) Cenário </h2>
 Uma pizzaria deseja um sistema simples para calcular o valor final de um pedido. O usuário 
